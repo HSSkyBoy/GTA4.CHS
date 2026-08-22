@@ -78,12 +78,6 @@
   "Soft": "柔和",
   "Softer": "更柔和",
   "Softest": "最柔和",
-  "PCSS": "PCSS",
-  "FXAA": "FXAA",
-  "SMAA": "SMAA",
-  "SSAA 2x": "SSAA 2x",
-  "DirectX 9": "DirectX 9",
-  "Vulkan": "Vulkan",
   "Low": "低",
   "Medium": "中",
   "High": "高",
@@ -101,5 +95,10 @@
   "Camera Turn Speed": "镜头旋转速度",
   "Invert Look": "反转视角",
   "Invert Mouse Look": "反转鼠标视角",
-  "Controller Vibration": "手柄震动"
+  "Controller Vibration": "手柄震动",
+  "IMG Files": "IMG 封包",
+  "RAM": "内存占用",
+  "Extra Info": "额外系统信息",
+  "Loaded IMG files": "已加载 IMG 封包",
+  "Resource Usage": "资源占用"
 }
